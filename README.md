@@ -20,20 +20,26 @@
 &nbsp;
 &nbsp;
 
-<h4>Sobre mim:</h4>
+<h2>&nbsp;&nbsp;&nbsp;Sobre mim:</h4>
 <h5> :seedling: No momento, estou me aprofundando em back-end com PHP e MySQL, além de melhorar minhas habilidades com Cybersegurança, JavaScript, APIS e frameworks modernos.</h5>
 <h5> :speech_balloon: Me pergunte sobre HTML, CSS, JavaScript, PHP, responsividade, acessibilidade, boas práticas em front-end ou como começar como freelancer, estarei sempre a disponibilização de ensinar. || Quer iniciar um projeto com colaboradores? Pode contar comigo!!</h5>
 <h5> :bulb: Sou apaixonado por resolver problemas e ver ideias ganhando vida na tela e lapida-las até estarem completas.</h5>
 &nbsp;
+<p align="center">"Com código e criatividade, o desenvolvimento web constrói pontes entre sonhos e realidade digital."</p>
+&nbsp;
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thalezv&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalezv&layout=compact&theme=radical)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thalezv&show_icons=true&theme=radical" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalezv&layout=compact&theme=radical" width="355" />
+</div>
 &nbsp;
 
 ## :mailbox_with_mail: Contato:
 <div align="left">
   <a href="https://www.linkedin.com/in/thales-ten%C3%B3rio-de-medeiros-a86472263/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></a>
-  <a href="https://www.instagram.com/intuviastudios/"><img src="instagram.svg" height="40" alt="instagram" /></a>
-  <a href="mailto:thales---medeiros@hotmail.com"><img src="envelope-at.svg" height="40" alt="email" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/intuviastudios/"><img src="instagram.svg" width="40" alt="instagram" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:thales---medeiros@hotmail.com"><img src="envelope-at.svg" width="40" alt="email" /></a>
 </div>
+
